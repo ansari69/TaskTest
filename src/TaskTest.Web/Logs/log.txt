@@ -1,0 +1,163 @@
+06/30/2021 21:47:31 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 21:47:32 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 21:47:32 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 21:47:32 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 21:47:32 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 21:47:35 [ERR] (/HP-PC/9) An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+06/30/2021 21:47:37 [ERR] (/HP-PC/10) An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+06/30/2021 21:47:46 [INF] (/HP-PC/2) Application is shutting down...
+06/30/2021 21:48:13 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 21:48:13 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 21:48:13 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 21:48:13 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 21:48:13 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 21:48:16 [INF] (/HP-PC/7) HTTP "GET" "/weatherforecast" responded 200 in 178.2819 ms
+06/30/2021 21:48:34 [INF] (/HP-PC/10) HTTP "POST" "/users/upsert" responded 200 in 4202.9397 ms
+06/30/2021 21:49:06 [INF] (/HP-PC/20) HTTP "POST" "/login" responded 400 in 1104.1166 ms
+06/30/2021 21:53:28 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 21:53:28 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 21:53:28 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 21:53:28 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 21:53:28 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 21:53:38 [INF] (/HP-PC/8) HTTP "GET" "/weatherforecast" responded 200 in 57.1522 ms
+06/30/2021 21:53:51 [INF] (/HP-PC/9) HTTP "POST" "/login" responded 400 in 21448.9698 ms
+06/30/2021 21:54:42 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 21:54:42 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 21:54:42 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 21:54:42 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 21:54:42 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 21:54:45 [INF] (/HP-PC/10) HTTP "GET" "/weatherforecast" responded 200 in 111.7979 ms
+06/30/2021 21:55:11 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 21:55:12 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 21:55:12 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 21:55:12 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 21:55:12 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 21:55:14 [INF] (/HP-PC/8) HTTP "GET" "/weatherforecast" responded 200 in 117.3757 ms
+06/30/2021 21:55:18 [INF] (/HP-PC/9) HTTP "POST" "/login" responded 200 in 3102.0778 ms
+06/30/2021 22:57:16 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 22:57:16 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 22:57:16 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 22:57:16 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 22:57:16 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 22:57:21 [INF] (/HP-PC/4) HTTP "GET" "/weatherforecast" responded 200 in 129.5285 ms
+06/30/2021 22:58:52 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 22:58:52 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 22:58:52 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 22:58:52 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 22:58:52 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 22:58:55 [INF] (/HP-PC/8) HTTP "GET" "/weatherforecast" responded 200 in 113.9679 ms
+06/30/2021 22:59:18 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 22:59:18 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 22:59:18 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 22:59:18 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 22:59:18 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 22:59:21 [INF] (/HP-PC/4) HTTP "GET" "/weatherforecast" responded 200 in 191.0126 ms
+06/30/2021 23:01:23 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 23:01:23 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 23:01:23 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 23:01:23 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 23:01:23 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 23:01:26 [INF] (/HP-PC/8) HTTP "GET" "/weatherforecast" responded 200 in 266.3109 ms
+06/30/2021 23:02:34 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 23:02:34 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 23:02:34 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 23:02:34 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 23:02:34 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 23:02:36 [INF] (/HP-PC/9) HTTP "GET" "/weatherforecast" responded 200 in 129.1060 ms
+06/30/2021 23:03:49 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+06/30/2021 23:03:49 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+06/30/2021 23:03:49 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+06/30/2021 23:03:49 [INF] (/HP-PC/1) Hosting environment: "Development"
+06/30/2021 23:03:49 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+06/30/2021 23:03:51 [INF] (/HP-PC/9) HTTP "GET" "/weatherforecast" responded 200 in 122.1538 ms
+07/01/2021 00:55:39 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 00:55:39 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 00:55:39 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 00:55:39 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 00:55:39 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 00:55:42 [INF] (/HP-PC/9) HTTP "GET" "/weatherforecast" responded 200 in 132.1265 ms
+07/01/2021 01:00:08 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 01:00:08 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 01:00:08 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 01:00:08 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 01:00:08 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 01:00:11 [INF] (/HP-PC/10) HTTP "GET" "/weatherforecast" responded 200 in 93.0490 ms
+07/01/2021 01:27:44 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 01:27:44 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 01:27:44 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 01:27:44 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 01:27:44 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 01:27:51 [INF] (/HP-PC/5) HTTP "GET" "/weatherforecast" responded 200 in 153.3791 ms
+07/01/2021 01:32:13 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 01:32:13 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 01:32:13 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 01:32:13 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 01:32:13 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 01:32:17 [INF] (/HP-PC/5) HTTP "GET" "/weatherforecast" responded 200 in 132.9279 ms
+07/01/2021 02:08:42 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:08:42 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:08:42 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:08:42 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:08:42 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:08:47 [INF] (/HP-PC/4) HTTP "GET" "/weatherforecast" responded 200 in 165.3963 ms
+07/01/2021 02:08:55 [INF] (/HP-PC/7) HTTP "POST" "/weather/city" responded 200 in 8219.9006 ms
+07/01/2021 02:09:50 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:09:50 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:09:50 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:09:50 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:09:50 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:09:53 [INF] (/HP-PC/4) HTTP "GET" "/weatherforecast" responded 200 in 159.4759 ms
+07/01/2021 02:10:03 [INF] (/HP-PC/10) HTTP "POST" "/weather/city" responded 200 in 4666.5014 ms
+07/01/2021 02:11:41 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:11:41 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:11:41 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:11:41 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:11:41 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:11:44 [INF] (/HP-PC/4) HTTP "GET" "/weatherforecast" responded 200 in 180.5175 ms
+07/01/2021 02:12:00 [INF] (/HP-PC/8) HTTP "POST" "/weather/city" responded 200 in 4053.3249 ms
+07/01/2021 02:12:10 [INF] (/HP-PC/5) HTTP "POST" "/weather/city" responded 200 in 584.6919 ms
+07/01/2021 02:12:18 [INF] (/HP-PC/9) HTTP "POST" "/weather/city" responded 200 in 619.4981 ms
+07/01/2021 02:13:03 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:13:03 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:13:03 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:13:03 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:13:03 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:13:04 [INF] (/HP-PC/9) HTTP "GET" "/weatherforecast" responded 200 in 141.8233 ms
+07/01/2021 02:13:26 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:13:26 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:13:26 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:13:26 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:13:26 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:13:27 [INF] (/HP-PC/10) HTTP "GET" "/weatherforecast" responded 200 in 136.9876 ms
+07/01/2021 02:13:32 [INF] (/HP-PC/9) HTTP "POST" "/weather/city" responded 200 in 5102.7333 ms
+07/01/2021 02:33:17 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:33:17 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:33:17 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:33:17 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:33:17 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:33:22 [INF] (/HP-PC/5) HTTP "GET" "/weatherforecast" responded 404 in 64.1944 ms
+07/01/2021 02:33:22 [INF] (/HP-PC/5) HTTP "GET" "/favicon.ico" responded 404 in 1.8808 ms
+07/01/2021 02:33:31 [INF] (/HP-PC/15) HTTP "POST" "/login" responded 200 in 8036.5505 ms
+07/01/2021 02:33:31 [INF] (/HP-PC/10) HTTP "POST" "/weather/city" responded 200 in 3583.2564 ms
+07/01/2021 02:33:38 [INF] (/HP-PC/7) HTTP "POST" "/weather/city" responded 200 in 664.6697 ms
+07/01/2021 02:35:12 [INF] (/HP-PC/1) Now listening on: "https://localhost:5001"
+07/01/2021 02:35:12 [INF] (/HP-PC/1) Now listening on: "http://localhost:5000"
+07/01/2021 02:35:12 [INF] (/HP-PC/1) Application started. Press Ctrl+C to shut down.
+07/01/2021 02:35:12 [INF] (/HP-PC/1) Hosting environment: "Development"
+07/01/2021 02:35:12 [INF] (/HP-PC/1) Content root path: "E:\c# asp project\1\TaskTest\TaskTest\src\TaskTest.Web"
+07/01/2021 02:35:17 [INF] (/HP-PC/10) HTTP "GET" "/weatherforecast" responded 404 in 33.6090 ms
+07/01/2021 02:35:47 [INF] (/HP-PC/10) HTTP "POST" "/weather/city" responded 401 in 801.3289 ms
+07/01/2021 02:36:05 [INF] (/HP-PC/14) HTTP "POST" "/weather/city" responded 200 in 2121.4301 ms
+07/01/2021 02:36:20 [INF] (/HP-PC/15) HTTP "POST" "/weather/city" responded 200 in 444.9980 ms
+07/01/2021 02:36:30 [INF] (/HP-PC/15) HTTP "POST" "/weather/city" responded 200 in 446.9984 ms
+07/01/2021 02:38:01 [INF] (/HP-PC/26) HTTP "POST" "/weather/city" responded 200 in 58814.4612 ms
